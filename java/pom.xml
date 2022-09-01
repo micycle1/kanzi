@@ -62,7 +62,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jdkVersion>9</jdkVersion>
+        <maven.compiler.release>9</maven.compiler.release>
         <releaseProfile>release</releaseProfile>
     </properties>
 
